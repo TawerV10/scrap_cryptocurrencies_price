@@ -1,0 +1,11 @@
+name,href,symbol,logo,price,market_cap
+Bitcoin,https://coinmarketcap.com/currencies/bitcoin/,BTC,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png,"$20,109.10","$20,109.10","$383,812,601,423"
+Ethereum,https://coinmarketcap.com/currencies/ethereum/,ETH,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png,"$1,135.00","$1,135.00","$137,827,661,102"
+Tether,https://coinmarketcap.com/currencies/tether/,USDT,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png,$0.9991,$0.9991,"$65,935,238,214"
+USD Coin,https://coinmarketcap.com/currencies/usd-coin/,USDC,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png,$1.00,$1.00,"$55,808,133,687"
+BNB,https://coinmarketcap.com/currencies/bnb/,BNB,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png,$237.09,$237.09,"$38,711,285,889"
+Binance USD,https://coinmarketcap.com/currencies/binance-usd/,BUSD,https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png,$1.00,$1.00,"$17,577,005,936"
+XRP,https://coinmarketcap.com/currencies/xrp/,XRP,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png,$0.3222,$0.3222,"$15,576,259,396"
+Cardano,https://coinmarketcap.com/currencies/cardano/,ADA,https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png,$0.4563,$0.4563,"$15,395,239,180"
+Solana,https://coinmarketcap.com/currencies/solana/,SOL,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png,$35.77,$35.77,"$12,280,372,357"
+Dogecoin,https://coinmarketcap.com/currencies/dogecoin/,DOGE,https://s2.coinmarketcap.com/static/img/coins/64x64/74.png,$0.0673,$0.0673,"$8,929,244,404"

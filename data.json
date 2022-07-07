@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Bitcoin",
+        "href": "https://coinmarketcap.com/currencies/bitcoin/",
+        "symbol": "BTC",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+        "price": "$20,109.10",
+        "market_cap": "$383,812,601,423"
+    },
+    {
+        "name": "Ethereum",
+        "href": "https://coinmarketcap.com/currencies/ethereum/",
+        "symbol": "ETH",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+        "price": "$1,135.00",
+        "market_cap": "$137,827,661,102"
+    },
+    {
+        "name": "Tether",
+        "href": "https://coinmarketcap.com/currencies/tether/",
+        "symbol": "USDT",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+        "price": "$0.9991",
+        "market_cap": "$65,935,238,214"
+    },
+    {
+        "name": "USD Coin",
+        "href": "https://coinmarketcap.com/currencies/usd-coin/",
+        "symbol": "USDC",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+        "price": "$1.00",
+        "market_cap": "$55,808,133,687"
+    },
+    {
+        "name": "BNB",
+        "href": "https://coinmarketcap.com/currencies/bnb/",
+        "symbol": "BNB",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+        "price": "$237.09",
+        "market_cap": "$38,711,285,889"
+    },
+    {
+        "name": "Binance USD",
+        "href": "https://coinmarketcap.com/currencies/binance-usd/",
+        "symbol": "BUSD",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png",
+        "price": "$1.00",
+        "market_cap": "$17,577,005,936"
+    },
+    {
+        "name": "XRP",
+        "href": "https://coinmarketcap.com/currencies/xrp/",
+        "symbol": "XRP",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+        "price": "$0.3222",
+        "market_cap": "$15,576,259,396"
+    },
+    {
+        "name": "Cardano",
+        "href": "https://coinmarketcap.com/currencies/cardano/",
+        "symbol": "ADA",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png",
+        "price": "$0.4563",
+        "market_cap": "$15,395,239,180"
+    },
+    {
+        "name": "Solana",
+        "href": "https://coinmarketcap.com/currencies/solana/",
+        "symbol": "SOL",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+        "price": "$35.77",
+        "market_cap": "$12,280,372,357"
+    },
+    {
+        "name": "Dogecoin",
+        "href": "https://coinmarketcap.com/currencies/dogecoin/",
+        "symbol": "DOGE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+        "price": "$0.0673",
+        "market_cap": "$8,929,244,404"
+    }
+]
